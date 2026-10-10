@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std; // solution implementation
 
 namespace LIST {
     struct NODE {
